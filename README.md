@@ -1,7 +1,7 @@
 # SpringSecurityLoginSystem
-Project of login and signup system using Spring Security & Spring boot.  In this project, role based authorization is used to allow whether user can access the webpage or not.
+Project of login and signup system using Spring Security & Spring boot.<br/>In this project, role based authorization is used to allow whether user can access the webpage or not. 
 
-# tools & technologies used
+# Tools & Technologies used
 1. Java Spring Framework (Boot & Security modules)  
 2. Thymleaf template engine for views
 3. Spring Security
