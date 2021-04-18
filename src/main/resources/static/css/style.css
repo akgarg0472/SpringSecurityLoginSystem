@@ -1,0 +1,35 @@
+body {
+    background: #d2d0d0;
+}
+
+.my-bg {
+    background: #fff;
+}
+
+.my-border {
+    border-radius: 10px;
+}
+
+.my-footer-links {
+    text-decoration: none;
+    color: #06bbab;
+    font-weight: bold;
+}
+
+.my-footer-links:hover {
+    text-decoration: underline;
+    color: #068b7e;
+    font-weight: bold;
+}
+
+.home-banner {
+    width: 100%;
+    height: 93vh;
+    color: white;
+    /*background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(../images/homebanner.jpg);*/
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("https://www.lifewire.com/thmb/zzfiMxxtwFAnKyAT25VzbsW3iQw=/2121x1414/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1086740226-5c2d625a4cedfd00016ed36c.jpg");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
